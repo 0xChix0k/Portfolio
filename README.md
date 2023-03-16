@@ -11,7 +11,7 @@
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-99d6ff.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![solidity](https://img.shields.io/badge/Solidity-ffffff.svg?style=for-the-badge&logo=Solidityt&logoColor=black)
+![solidity](https://img.shields.io/badge/Solidity-f2f2f2.svg?style=for-the-badge&logo=Solidityt&logoColor=black)
 
 
 
